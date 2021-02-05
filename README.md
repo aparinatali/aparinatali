@@ -3,8 +3,7 @@ My name is Nataliya. I am an economist skilled in statistics and data science.
 🌱 I’m currently learning Python, SQL for handling data, modelling and visualization.
 ⚡ My key interests are Environmental Economics, Sustainable Development and Data Analyzing.
 <p align="center">
-  <img src="C:\Users\apari\Documents\nataliya\Final\data" width="350" title="hover text">
-  <img src="C:\Users\apari\Documents\nataliya\Final\data_cloud.png" width="350" alt="accessibility text">
+  <img src="C:\Users\apari\Documents\nataliya\Final\data\cloud.png" width="350" title="hover text">
 </p>
 
 <!--
