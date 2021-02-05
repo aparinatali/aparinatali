@@ -2,7 +2,7 @@
 My name is Nataliya. I am an economist skilled in statistics and data science.
 🌱 I’m currently learning Python, SQL for handling data, modelling and visualization.
 ⚡ My key interests are Environmental Economics, Sustainable Development and Data Analyzing.
-![cloud](https://user-images.githubusercontent.com/72296656/107026475-096ae100-67ab-11eb-9e7e-afeec19a9e53.png =250x250)
+![cloud](https://user-images.githubusercontent.com/72296656/107026475-096ae100-67ab-11eb-9e7e-afeec19a9e53.png) {:height="50%" width="50%"}
 
 <!--
 **aparinatali/aparinatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
