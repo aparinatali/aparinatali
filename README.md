@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Nataliya. I am an economist skilled in statistics and data science.
+
 🌱 I’m currently learning Python, SQL for handling data, modelling and visualization.
+
 ⚡ My key interests are Environmental Economics, Sustainable Development and Data Analyzing.
 ![cloud](https://user-images.githubusercontent.com/72296656/107026475-096ae100-67ab-11eb-9e7e-afeec19a9e53.png)
 
