@@ -6,7 +6,7 @@ My name is Nataliya. I am an economist skilled in statistics and data science
 ⚡ My key interests are Environmental Economics, Sustainable Development and Data Analyzing
 
 💬 I’m looking for new projects and interesting ideas to develop my coding skills
-![cloud_cw](https://user-images.githubusercontent.com/72296656/107026475-096ae100-67ab-11eb-9e7e-afeec19a9e53.png)
+![cloud](https://user-images.githubusercontent.com/72296656/107026475-096ae100-67ab-11eb-9e7e-afeec19a9e53.png)
 
 
 <!--
